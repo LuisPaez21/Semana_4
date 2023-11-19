@@ -114,11 +114,11 @@ p {
 }
 /* Bienvenida */
 #welcome {
-    background: url('./img/welcome_fime.png') no-repeat center center/cover; 
+    background: url('../img/welcome_fime.png') no-repeat center center/cover; 
     height: 600px;
 }
 #welcome1 {
-    background: url('./img/fondo.jpg') no-repeat center center/cover;
+    background: url('../img/fondo.jpg') no-repeat center center/cover;
     width: 100%;
     height: 400px;
 }
@@ -202,12 +202,12 @@ p {
 /* Testimonos */
 #testimonials {
     height: 600px;
-    background: url('./img/photo-fime-2-sepia-bg.jpg') no-repeat center center/cover;
+    background: url('../img/photo-fime-2-sepia-bg.jpg') no-repeat center center/cover;
     padding-top: 100px;
 }
 #testimonials1 {
     height: auto;
-    background: url('./img/fondo.jpg') no-repeat center center/cover;
+    background: url('../img/fondo.jpg') no-repeat center center/cover;
     padding-top: 100px;
 }
 #testimonials h2 {  
